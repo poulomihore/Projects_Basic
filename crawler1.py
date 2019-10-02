@@ -21,4 +21,4 @@ def func1():
 	except:
 		print('Error occured!\nCould not fetch links') 
 
-func1()
+
